@@ -1,0 +1,9 @@
+html, body, h1, h2, h3, h4, header, footer, li, div, 
+jumbotron, img, code, span, address, menu, nav, p,
+article, {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	background: transparent;
+}
